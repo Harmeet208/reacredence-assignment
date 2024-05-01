@@ -1,4 +1,4 @@
-##To Run Frontend -
+## To Run Frontend -
 1. Install the required node modules using - npm i
 2. Then Start the server - npm start
 ## For Backend -
